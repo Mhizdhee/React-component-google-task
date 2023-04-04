@@ -1,0 +1,24 @@
+main-div{
+    
+    display: flex;
+    align-items: center;
+    margin-top:20%;
+}
+
+main-div-img{
+    display: flex;
+    align-items: center;
+    margin: auto 40%;
+}
+
+.search-div{
+    margin: 7% auto;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 6px;
+}
+
+.search-bar{
+    border-radius: 20px;
+}

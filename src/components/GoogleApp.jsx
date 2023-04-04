@@ -1,18 +1,15 @@
-import Header from './Header';
-import Footer from './Footer';
-import Main from './Main';
-
-
+import Header from "./Header";
+import Main from "./Main";
+import Footer from "./Footer";
 
 const GoogleApp = () => {
   return (
     <>
-    <Header/>
-    <Main/>
-    <Footer/>
+      <Header />
+      <Main />
+      <Footer />
     </>
-        
   );
-}
+};
 
 export default GoogleApp;

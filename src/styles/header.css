@@ -8,3 +8,14 @@
     display: flex;
     gap: 4px;
 }
+.MenuInfo{
+    padding-right: 15px;
+    display: flex;
+    margin: auto;
+    gap: 10px;
+}
+.MenuIcon{
+    display: flex;
+    align-items: center;
+    gap:3px;
+}

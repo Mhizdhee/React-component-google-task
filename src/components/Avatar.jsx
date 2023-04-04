@@ -4,8 +4,9 @@ import MyPic from '../images/img.png'
 export default function Avatar() {
   return (
     <div>
-        <img src={MyPic} alt='img'/>
+        <img src={MyPic} alt='img' />
     </div>
   )
 }
 
+// style={{height: "30px"}}
