@@ -17,10 +17,11 @@ const Main = () => {
         <div className="search-bar">
           <SearchBar />
         </div>
+        <div className="btn">
         <Button title={"Google Search"} />
         <Button title={"I'm Feeling Lucky"} />
       </div>
-
+      </div>
       <div className="lang-div">
       <LanguageLink />
       </div>

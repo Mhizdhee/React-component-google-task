@@ -2,7 +2,8 @@ import React from 'react'
 
 export default function LanguageLink() {
   return (
-    <div>
+    <>
+    <div >
         <p>Google offered in:
         <a href='#'>Hausa</a>
         <a href="#">Igbo</a>
@@ -11,5 +12,6 @@ export default function LanguageLink() {
         </p>
 
     </div>
+    </>
   )
 }

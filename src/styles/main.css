@@ -1,24 +1,43 @@
-main-div{
+.main-div{
     
     display: flex;
     align-items: center;
-    margin-top:20%;
+    
 }
 
-main-div-img{
+.main-div-img{
     display: flex;
     align-items: center;
-    margin: auto 40%;
+    margin: auto 43%;
+    margin-top: 5%;
 }
 
-.search-div{
-    margin: 7% auto;
-    display: flex;
+ .search-div{
+     display: flex;
+    justify-content: center;
     align-items: center;
+    flex-direction: column;
+    margin: auto 43%;
+} 
+
+.search-bar{ 
+   margin: 5%;
+}
+
+.btn{
+   
+    display: flex;
     flex-direction: row;
-    gap: 6px;
+    margin: 10%;
+    gap: 10%;
+    padding: 10px;
+    width: 300px;
+    border: none;
 }
 
-.search-bar{
-    border-radius: 20px;
+.lang-div{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
