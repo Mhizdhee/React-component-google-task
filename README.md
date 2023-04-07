@@ -1,5 +1,26 @@
 # Getting Started with Create React App
 
+## The Components discovered are 
+1. AppsCollectionIcon component
+2. Avatar component
+3. MenuItem component
+4. Header component
+5. Main Component
+6. Logo component
+7. SearchBar component
+8. SearchIcon component
+9. CameraIcon component
+10. MicrophoneIcon component
+11. Button component
+12. Languagelink component
+13. Footer component
+14. Location component
+15. Bottomleftmenu component
+16. Footertext component
+17.Bottomrightmenu component
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
