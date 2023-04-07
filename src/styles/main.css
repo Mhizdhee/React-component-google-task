@@ -27,11 +27,16 @@ input{
     position: relative;
 }
 
+input::placeholder{
+    padding: 30px;
+}
 .img{
     position: absolute;
     top:228px;
-    left: 420px;
+    left: 410px;
+    
 }
+
 
 .mic{
     position: absolute;
