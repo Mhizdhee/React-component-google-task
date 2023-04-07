@@ -1,0 +1,29 @@
+.locatn-div{
+    padding: 8px;
+    background-color: rgb(231, 227, 227);
+    color: gray;
+    margin-top: 12%;
+    border-bottom: 1px solid lightgray;
+}
+
+.footer-menu-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:  rgb(231, 227, 227);
+    color: gray;
+}
+
+.menu-div{
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    gap:20px;
+}
+
+.righ-menu-div{
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    gap:20px;
+}

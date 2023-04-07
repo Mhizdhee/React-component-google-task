@@ -19,6 +19,31 @@
     flex-direction: column;
     margin: auto 43%;
 } 
+input{
+    border: 1px solid lightgray;
+    width: 524px;
+    border-radius: 20px;
+    padding: 10px ;
+    position: relative;
+}
+
+.img{
+    position: absolute;
+    top:228px;
+    left: 420px;
+}
+
+.mic{
+    position: absolute;
+    top:228px;
+    right: 450px;
+}
+
+.cam{
+    position: absolute;
+    top:228px;
+    right:410px;
+}
 
 .search-bar{ 
    margin: 5%;
@@ -40,4 +65,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+small a{
+    text-decoration: none;
+    margin: 5px;
 }
